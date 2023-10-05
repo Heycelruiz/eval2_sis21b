@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111476611292",
+    "project_id": "evaluacion-86487",
+    "storage_bucket": "evaluacion-86487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111476611292:android:d19fd79c6edc4c008f7c19",
+        "android_client_info": {
+          "package_name": "com.samaraheycelitca.eval2_3sis21b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYpsdKJ6bVq04ze9QSK7xSr7F73rDbAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
